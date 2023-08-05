@@ -1,0 +1,3 @@
+this folder was created to test the use case2 which is creating a folder in your local and work on it 
+like developing my coden and stuff
+and later be converted to a remote repo in git hub
